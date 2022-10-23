@@ -61,7 +61,7 @@ with col1:
         """Teknologi
         (Hapus semua teknologi untuk menampilkan semua data)""",
         options=list_teknologi,
-        default=list_teknologi[0]
+        default=list_teknologi[2]
     )
 
     if jenis_teknologi == []:

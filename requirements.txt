@@ -5,3 +5,4 @@ pandasql==0.7.3
 openpyxl==3.0.10
 streamlit==1.13.0
 numpy==1.23.1
+plotly-express==0.4.1

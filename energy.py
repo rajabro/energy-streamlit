@@ -1,5 +1,3 @@
-from operator import index
-from tkinter.tix import COLUMN
 import pandas as pd
 import streamlit as st
 import altair as alt
